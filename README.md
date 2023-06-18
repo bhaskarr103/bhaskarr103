@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img align="right" alt="coding" width="300" src="https://octodex.github.com/images/yogitocat.png">
-
 </div>
 
 <h2 align="center">Hi 👋, I'm BHASKAR RAJAURA</h2>
