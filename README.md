@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm BHASKAR RAJAURA</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Front-+End-+Developer+and+DataScience+Enthuse)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Front-+End-+Developer;and+DataScience+Enthuse)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **react**
 
