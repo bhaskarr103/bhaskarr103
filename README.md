@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+  <img src=![image](https://github.com/bhaskarr103/bhaskarr103/assets/123258478/324b5f3f-5a17-4757-a32b-bb5420749dab) width="200"/>
 </div>
 
 <h2 align="center">Hi 👋, I'm BHASKAR RAJAURA</h2>
