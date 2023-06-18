@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=![image](https://github.com/bhaskarr103/bhaskarr103/assets/123258478/324b5f3f-5a17-4757-a32b-bb5420749dab) width="200"/>
+  ![image](https://github.com/bhaskarr103/bhaskarr103/assets/123258478/b298d9be-7e28-4f85-a4c7-f44555dc1c6d)
 </div>
 
 <h2 align="center">Hi 👋, I'm BHASKAR RAJAURA</h2>
