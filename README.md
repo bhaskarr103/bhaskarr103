@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  ![image](https://github.com/bhaskarr103/bhaskarr103/assets/123258478/b298d9be-7e28-4f85-a4c7-f44555dc1c6d)
+  <img align="right" alt="coding" width="300" src="https://octodex.github.com/images/yogitocat.png">
+
 </div>
 
 <h2 align="center">Hi 👋, I'm BHASKAR RAJAURA</h2>
