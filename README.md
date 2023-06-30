@@ -29,7 +29,7 @@
 
 
 
-### CONTRIBUTION!!!!!!!
+# # Contribution Graph 🔭 !!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
