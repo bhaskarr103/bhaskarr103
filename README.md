@@ -29,6 +29,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskarr103&show_icons=true&locale=en" alt="bhaskarr103" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-red&border_radius=8&card_width=500)](https://git.io/streak-stats)
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarr103&"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-red&border_radius=8&card_width=500" alt="bhaskarr103" /></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarr103&" alt="bhaskarr103" /></p>
 
 
