@@ -14,12 +14,6 @@
 
 
 # 💻 My Skill Set  
-<table><tr><td valign="bottom" width="45%">
-
-
-
-
-
 
 
 <div style="display: flex; align-items: flex-start; align: center">
